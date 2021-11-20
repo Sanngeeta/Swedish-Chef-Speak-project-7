@@ -1,0 +1,170 @@
+:root{
+    --primary-blue: #58F3D1;
+    --secondary-blue: #ade0e4;
+    --primary-lack: #212121;
+    margin: 0;
+    font-family: "OctemberScript"
+
+
+}
+
+body{
+    width: 100%;
+    height: 900%;
+    font-size: 14px;
+    font-weight: normal;
+    min-height: auto;
+    background-image: url(images.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    position: relative; 
+    overflow-y: auto;
+    
+}
+
+
+textarea{
+    border-radius: 10px;
+    border-color: var(--primary-lack);
+    border-width: medium;
+    background-color: rgb(237, 236, 236);
+    outline: none;
+    height: 15rem;
+    width: 50%;
+    margin-left:25%;
+    font-size: x-large;
+}
+
+
+#output{
+    border-radius: 10px;
+    border-color: var(--primary-lack);
+    border-width: medium;
+    background-color: rgb(237, 236, 236);
+    outline: none;
+    height: 17rem;
+    width: 51%;
+    margin-left:25%;
+    
+}
+
+
+
+
+
+#btn-translate{
+    padding: 1rem 2rem;
+    width: max-content;
+    font-weight: 700;
+    font-size: x-large;
+    background-color: transparent;
+    color: var(--primary-lack);
+    border-radius: 7px;
+    border-color: var(--primary-lack);
+    margin-top: 20px;
+    outline: none;
+    
+}
+
+
+
+
+
+
+
+
+
+#btn-translate{
+    font-size: xx-large;
+    font-weight: bold;
+    height: 65px;
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 20px;
+    background-color:var(--primary-coloer);
+    color: black;
+
+}
+
+
+
+.txt{
+    margin-left: 25%;
+    font-size: xx-large;
+    font-weight: bold;
+    color:black;
+
+}
+
+
+
+
+
+
+
+/* navigation */
+
+.navigation{
+    color:white;
+    padding: 4rem;
+    border-bottom-left-radius: 4rem  ;
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+
+}
+
+.navigation .nav-brand{
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+
+
+
+
+.hero{
+    padding: 2rem;
+    padding-top: 2rem;
+}
+.hero .hero-img{
+    max-width: 350px;
+    display: block;
+    margin: auto; 
+    
+
+}
+
+.hero .hero-heading{
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+}
+
+.container-center{
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+/* footers */
+.footer{
+    padding: 2rem 3rem;
+    text-align: center;
+    color:black;
+    border-top-right-radius: 3rem;
+    font-weight: bolder;
+}
+
+.footer .footer-header{
+    font-weight: bold;
+    font-size: xx-large;
+}
+
