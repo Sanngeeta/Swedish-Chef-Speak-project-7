@@ -150,7 +150,13 @@ textarea{
 }
 
 
-
+/* 
+.language{
+    font-family: 'kalam',cursive;
+    font-size: xx-large;
+    font-size: x-large;
+    color: white; */
+    
 
 
 
@@ -158,13 +164,15 @@ textarea{
 .footer{
     padding: 2rem 3rem;
     text-align: center;
-    color:black;
+    color:white;
     border-top-right-radius: 3rem;
     font-weight: bolder;
+    font-size: x-large;
 }
 
 .footer .footer-header{
     font-weight: bold;
     font-size: xx-large;
 }
+
 
