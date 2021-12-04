@@ -1,6 +1,6 @@
-# Translator into Swedish Language
+# Translator Chef translator Language
 
-This is swedish translator which is use to translate your english language into swedish laguage!
+This is Chef translator which is use to translate your english language into Chef  laguage!
 
     Language using in project!
 
